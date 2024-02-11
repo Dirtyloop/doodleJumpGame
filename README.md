@@ -1,4 +1,4 @@
-# Doodle Jump by Dirtyloop.
+# Doodle Jump Game
 
 ![DoodleJumpGame](https://github.com/Dirtyloop/doodleJumpGame/blob/master/screen.png)
 
