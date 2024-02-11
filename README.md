@@ -29,7 +29,4 @@ Player scores and som infos are displayed in a console.
 
 ### Known bugs:
 
-- from time to time, an unknown error causes the program to crush even right after starting it,
-- an unknown error causes the program to crash after attempting a projetile shot.
-
-Happy playing!
+- from time to time, an unknown error causes the program to crush even right after starting it.
