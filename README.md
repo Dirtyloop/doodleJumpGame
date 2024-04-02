@@ -1,6 +1,10 @@
 # Doodle Jump Game
 
-![DoodleJumpGame](https://github.com/Dirtyloop/doodleJumpGame/blob/master/screen.png)
+## Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AiG6eQfz66o
+" target="_blank"><img src="http://img.youtube.com/vi/AiG6eQfz66o/0.jpg" 
+alt="Doodle Jump Game" width="800" height="600" border="10" /></a>
 
 ## About the game
 
